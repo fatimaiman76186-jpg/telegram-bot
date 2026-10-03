@@ -3,3 +3,4 @@ faster-whisper>=1.0.0
 yt-dlp
 python-dotenv
 anthropic
+Flask==2.3.3
